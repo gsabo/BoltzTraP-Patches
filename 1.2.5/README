@@ -7,7 +7,7 @@ Description: Trace file plotting example for Bi2Te3
 - Apply the patch with: patch -b gather_energy.pl gather_energy.patch
 Description: Modifies gather_energy.pl so that it should work for parallel spin polarized and parallel spin orbit calculations.
 To use, add -up or -dn flag (usage: gather_energy.pl [case] [-up/-dn]).
-Reference: http://www.mail-archive.com/wien@zeus.theochem.tuwien.ac.at/msg12285.html
+Reference: https://www.mail-archive.com/wien@zeus.theochem.tuwien.ac.at/msg13418.html
 
 - tau_model.txt
 - Description: Documentation for the tau model
